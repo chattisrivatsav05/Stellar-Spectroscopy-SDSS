@@ -46,6 +46,6 @@ This project presents a computational analysis of a stellar spectrum obtained fr
 
 ## Author
 
-Chatti Srivatsav 
-B.Tech Electronics and Communication Engineering 
+Chatti Srivatsav
+B.Tech, Electronics and Communication Engineering.
 Visakhapatnam, India
