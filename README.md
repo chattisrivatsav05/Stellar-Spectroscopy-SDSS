@@ -29,7 +29,7 @@ This project presents a computational analysis of a stellar spectrum obtained fr
 ## Figures
 
 ### Computed Spectrum
-![Spectrum Generated .](figures/spectrum_plot.png)
+![Spectrum](spectrum_python.png)
 
 ## Files
 
